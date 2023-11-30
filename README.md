@@ -1,8 +1,7 @@
-# Introduction
-
 <p align="center">
   <img width=300 src="https://i.imgur.com/8vgxQN4.png" />
 </p>
+<h1 align="center">DropPartyFiesta</h1>
 
 **DropPartyFiesta** is a plugin that adds highly configurable and exciting means of distributing items to players in the form of parties. **Fun** is an important element for players, and what better way but to hype things up with drop parties in a myriad of ways? This plugin supports the following means of throwing drop parties:
 - Throw drop party at pre-defined locations (players pick up items shot from locations)
